@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Name:</string>
+    <string name="phoneNumber">HP no.:</string>
+    <string name="groupPax">Pax:</string>
+    <string name="tableArea">Select table area:</string>
+    <string name="smokingArea">Smoking Area</string>
+    <string name="nonSmokingArea">Non-smoking Area</string>
+    <string name="confirmButton">Confirm</string>
+    <string name="resetButton">Reset</string>
+    <string name="day">Day:</string>
+    <string name="time">Time:</string>
+
+</resources>
